@@ -1,0 +1,20 @@
+man :Rechercher des information sur une commande
+ls -l :permet de lister les attributs des fichie
+ls -a :liste tous les fivhiers du répertoires y compris les fichiers cachés
+pwd :affiche le chemin absolu du répertoire courant
+cd .. :répertoire parent 
+cd ~ :répertoire de base 
+cd - :répertoire précedent
+mkdir :créer un répertoire mkdir répertoi 
+rermdir :effacer un répertoire rmdir dossier supprime un répertoire vide
+rm :remove, éfface
+rm -R enlèvement récursif
+ rm fichier 
+rm -i :fichier interactivement, avec demande de confirmation
+rm -f :fichier avec force, sans demande de confirmation
+rm -r :fichier avec récursivité, avec les sous répertoires
+rm -rf :dossier supprime le répertoire et tou son contenu, sans confirmation
+cat :concatenate avec le code de fin de fichier 
+more:"pager" qui affiche page par page sans retour en arrière, "h" affichel'aide contextuelle
+ more fichier more fichier1 fichier2 more *.tx
+cp :dossier copie

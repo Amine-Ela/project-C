@@ -1,0 +1,19 @@
+Quelle page de manuel voulez-vous ? Par exemple, essayez « man man ».
+l'interpréteur a demande quelle page de manuel voules-vous par ce que la commande ma manuel de autre commende
+afficher le contenu de répertoires
+
+manls:commande introuvable et man 3 Ls:aucun entrée de manuel pour ls en section
+tous les commande font de méme
+tous les commande qui permet les liste répertoire
+(pwd): permet d'affiche le chemin absolu de répertoire et (cd/):puis encore (pwd):elle permet de remonter a la racine de l'ensemble du systéme de fichiers
+cd:(change directory)permet de se promener dans les répertoire et (cd~):permet de revenit au répertoire précedent (cd..) permet de remonter au répertoire (cd/usr/bin/):se place dans le répertoire 
+mkdir:permet de créer de dossiers au répertoires (rmdir):est un commande unix permettant de supprimerdes répertoire vides
+
+touch:permet de créer un fichier vide
+cp (copier):permet de copier les fchier (rm):permet du supprimer les fichiers
+mv:permet de déplacer des fichier au répertoire et,il permet auusi de renomer un fichier
+mkdir est une commande Unix permettant de créer des répertoires exemple cd mkdir java cd java  pwd /home/Jean-Paul/java rmdir est une commande Unix permettant de supprimer des répertoires vides exemple rmdir répertoire
+Nous avons créé nouveau le répertoire au même emplacement sans changer le répertoire
+Nous avons créé fichier avec la commande « touch » dans le dossier 
+Copiez le fichier vers le répertoire précédemment créé à l’aide de la commande « cp »,
+puis supprimez le fichier original à l’aide de la commande « rm ».
